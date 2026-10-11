@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nora-Dongdong
-- 👀 I’m interested in culinary, travel and languages.
-- 🌱 I'm a beginnner to programming! I’m currently learning python.
+- 👀 Urbanist.
+- 🌱 Learning machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
