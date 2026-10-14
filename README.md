@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nora-Dongdong
 - 👀 Urbanist.
-- 🌱 Learning machine learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 
+- 🌱 machine learning?
+- 💞️ I’m looking to collaborate on projects map/mobility/aviation.
 
 <!---
 Nora-Dongdong/Nora-Dongdong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
